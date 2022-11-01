@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:magdsoft_flutter_structure/business_logic/global_cubit/global_cubit.dart';
-import 'package:magdsoft_flutter_structure/presentation/screens/help/help_screen.dart';
-import 'package:magdsoft_flutter_structure/presentation/screens/home/home_screen.dart';
-import 'package:magdsoft_flutter_structure/presentation/screens/login/login_screen.dart';
-import 'package:magdsoft_flutter_structure/presentation/widget/bottom_nav_bar.dart';
-import 'package:magdsoft_flutter_structure/presentation/screens/login/verify_phone.dart';
+import 'package:magdsoft/business_logic/global_cubit/global_cubit.dart';
+import 'package:magdsoft/presentation/screens/help/help_screen.dart';
+import 'package:magdsoft/presentation/screens/home/home_screen.dart';
+import 'package:magdsoft/presentation/screens/login/login_screen.dart';
+import 'package:magdsoft/presentation/widget/bottom_nav_bar.dart';
+import 'package:magdsoft/presentation/screens/login/verify_phone.dart';
 
 
 class HomeView extends StatelessWidget {

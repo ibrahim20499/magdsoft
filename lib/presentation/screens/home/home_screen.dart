@@ -1,12 +1,11 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
-import 'package:magdsoft_flutter_structure/presentation/router/app_router.dart';
-import 'package:magdsoft_flutter_structure/presentation/screens/home/cubit/home_cubit.dart';
-import 'package:magdsoft_flutter_structure/presentation/screens/home/product_details_screen.dart';
-import 'package:magdsoft_flutter_structure/presentation/styles/app_color.dart';
-import 'package:magdsoft_flutter_structure/presentation/view/categories.dart';
-import 'package:magdsoft_flutter_structure/presentation/view/product_card.dart';
+import 'package:magdsoft/presentation/router/app_router.dart';
+import 'package:magdsoft/presentation/screens/home/cubit/home_cubit.dart';
+import 'package:magdsoft/presentation/screens/home/product_details_screen.dart';
+import 'package:magdsoft/presentation/styles/app_color.dart';
+import 'package:magdsoft/presentation/view/categories.dart';
+import 'package:magdsoft/presentation/view/product_card.dart';
 import 'package:sizer/sizer.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

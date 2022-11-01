@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:magdsoft_flutter_structure/presentation/router/app_router.dart';
-import 'package:magdsoft_flutter_structure/presentation/styles/app_color.dart';
+import 'package:magdsoft/presentation/router/app_router.dart';
+import 'package:magdsoft/presentation/styles/app_color.dart';
 import 'package:sizer/sizer.dart';
 
 class BottomNavigationBarWidget extends StatelessWidget {

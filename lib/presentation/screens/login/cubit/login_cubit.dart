@@ -1,11 +1,11 @@
 import 'package:bloc/bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:magdsoft_flutter_structure/constants/end_points.dart';
-import 'package:magdsoft_flutter_structure/data/data_providers/remote/dio_helper.dart';
-import 'package:magdsoft_flutter_structure/data/models/account_model.dart';
-import 'package:magdsoft_flutter_structure/data/network/requests/login_request.dart';
-import 'package:magdsoft_flutter_structure/data/network/responses/login_response.dart';
+import 'package:magdsoft/constants/end_points.dart';
+import 'package:magdsoft/data/data_providers/remote/dio_helper.dart';
+import 'package:magdsoft/data/models/account_model.dart';
+import 'package:magdsoft/data/network/requests/login_request.dart';
+import 'package:magdsoft/data/network/responses/login_response.dart';
 import 'package:meta/meta.dart';
 
 part 'login_state.dart';

@@ -2,13 +2,13 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:magdsoft_flutter_structure/presentation/screens/help/help_screen.dart';
-import 'package:magdsoft_flutter_structure/presentation/screens/home/home_screen.dart';
-import 'package:magdsoft_flutter_structure/presentation/screens/login/cubit/login_cubit.dart';
-import 'package:magdsoft_flutter_structure/presentation/router/app_router.dart';
-import 'package:magdsoft_flutter_structure/presentation/widget/main_button.dart';
-import 'package:magdsoft_flutter_structure/presentation/widget/toast.dart';
-import 'package:magdsoft_flutter_structure/data/data_providers/local/cache_helper.dart';
+import 'package:magdsoft/presentation/screens/help/help_screen.dart';
+import 'package:magdsoft/presentation/screens/home/home_screen.dart';
+import 'package:magdsoft/presentation/screens/login/cubit/login_cubit.dart';
+import 'package:magdsoft/presentation/router/app_router.dart';
+import 'package:magdsoft/presentation/widget/main_button.dart';
+import 'package:magdsoft/presentation/widget/toast.dart';
+import 'package:magdsoft/data/data_providers/local/cache_helper.dart';
 
 class VerifyPhone extends StatelessWidget {
    VerifyPhone({Key? key}) : super(key: key);

@@ -1,12 +1,12 @@
 import 'package:bloc/bloc.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:magdsoft_flutter_structure/constants/end_points.dart';
-import 'package:magdsoft_flutter_structure/data/data_providers/remote/dio_helper.dart';
-import 'package:magdsoft_flutter_structure/data/models/product_model.dart';
-import 'package:magdsoft_flutter_structure/data/models/help_model.dart';
+import 'package:magdsoft/constants/end_points.dart';
+import 'package:magdsoft/data/data_providers/remote/dio_helper.dart';
+import 'package:magdsoft/data/models/product_model.dart';
+import 'package:magdsoft/data/models/help_model.dart';
 import 'package:meta/meta.dart';
-import 'package:magdsoft_flutter_structure/presentation/styles/assets_manager.dart';
+import 'package:magdsoft/presentation/styles/assets_manager.dart';
 
 import 'package:flutter/material.dart';
 

@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:magdsoft_flutter_structure/constants/end_points.dart';
+import 'package:magdsoft/constants/end_points.dart';
 
 class DioHelper {
   static Dio? dio;

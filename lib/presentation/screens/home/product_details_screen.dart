@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:magdsoft_flutter_structure/presentation/router/app_router.dart';
-import 'package:magdsoft_flutter_structure/presentation/screens/home/cubit/home_cubit.dart';
-import 'package:magdsoft_flutter_structure/presentation/styles/app_color.dart';
-import 'package:magdsoft_flutter_structure/presentation/widget/main_button.dart';
+import 'package:magdsoft/presentation/router/app_router.dart';
+import 'package:magdsoft/presentation/screens/home/cubit/home_cubit.dart';
+import 'package:magdsoft/presentation/styles/app_color.dart';
+import 'package:magdsoft/presentation/widget/main_button.dart';
 import 'package:sizer/sizer.dart';
 
 class ProductDetailsScreen extends StatelessWidget {

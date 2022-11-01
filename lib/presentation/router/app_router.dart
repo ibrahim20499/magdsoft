@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:magdsoft_flutter_structure/presentation/screens/help/help_screen.dart';
-import 'package:magdsoft_flutter_structure/presentation/screens/home/home_screen.dart';
-import 'package:magdsoft_flutter_structure/presentation/screens/home/home_view.dart';
-import 'package:magdsoft_flutter_structure/presentation/screens/login/verify_phone.dart';
-import 'package:magdsoft_flutter_structure/presentation/screens/home/product_details_screen.dart';
-import 'package:magdsoft_flutter_structure/presentation/screens/shared/splash_screen.dart';
-import 'package:magdsoft_flutter_structure/presentation/screens/login/login_screen.dart';
+import 'package:magdsoft/presentation/screens/help/help_screen.dart';
+import 'package:magdsoft/presentation/screens/home/home_screen.dart';
+import 'package:magdsoft/presentation/screens/home/home_view.dart';
+import 'package:magdsoft/presentation/screens/login/verify_phone.dart';
+import 'package:magdsoft/presentation/screens/home/product_details_screen.dart';
+import 'package:magdsoft/presentation/screens/shared/splash_screen.dart';
+import 'package:magdsoft/presentation/screens/login/login_screen.dart';
 
 
 class Routes {

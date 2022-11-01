@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:magdsoft_flutter_structure/presentation/screens/login/cubit/login_cubit.dart';
-import 'package:magdsoft_flutter_structure/presentation/screens/login/verify_phone.dart';
-import 'package:magdsoft_flutter_structure/presentation/widget/custom_text_filed_widget.dart';
-import 'package:magdsoft_flutter_structure/presentation/widget/main_button.dart';
-import 'package:magdsoft_flutter_structure/presentation/widget/toast.dart';
-import 'package:magdsoft_flutter_structure/presentation/router/app_router.dart';
+import 'package:magdsoft/presentation/screens/login/cubit/login_cubit.dart';
+import 'package:magdsoft/presentation/screens/login/verify_phone.dart';
+import 'package:magdsoft/presentation/widget/custom_text_filed_widget.dart';
+import 'package:magdsoft/presentation/widget/main_button.dart';
+import 'package:magdsoft/presentation/widget/toast.dart';
+import 'package:magdsoft/presentation/router/app_router.dart';
 import 'package:sizer/sizer.dart';
 class LoginScreen extends StatelessWidget {
    LoginScreen({Key? key}) : super(key: key);
