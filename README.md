@@ -5,7 +5,7 @@
 - Used dio Package to fetch data from API.
 ## 📱 Screens
 ###### Splash Screen
-![Screenshot_٢٠٢٢١١٠٢-٠١٣٢١٦](https://user-images.githubusercontent.com/67784172/199622644-7649e61e-a2a8-40b7-9e37-4e048298abaf.jpg | width=100)
+<img src="https://user-images.githubusercontent.com/67784172/199622644-7649e61e-a2a8-40b7-9e37-4e048298abaf.jpg" width="200" height="400" />
 ###### Login Screen
 ![Screenshot_٢٠٢٢١١٠٢-٠١٣٢٣٢](https://user-images.githubusercontent.com/67784172/199622655-4b1331ea-c272-4fc5-81ab-e5ad62e00624.jpg)
 ###### Verify Phone Screen
